@@ -1,1 +1,1 @@
-Vanilla Javascript Excel
+Vanilla Javascript Excel WebApp
